@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "879288484629",
+    "project_id": "memla-daf2f",
+    "storage_bucket": "memla-daf2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879288484629:android:b8653ffd96ea4f1b7edf1c",
+        "android_client_info": {
+          "package_name": "com.mla.memla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879288484629-p5m7582o01k0lq63c35p5lc61i81jjna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mla.memla",
+            "certificate_hash": "9f28adb230725f7fa0dab7ff90f562ce0db40682"
+          }
+        },
+        {
+          "client_id": "879288484629-98f5cjqmfqgl80ttoo022op1d6vk41oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdFYStu7F9I_siUTsVPscmUBBycs8wT1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879288484629-98f5cjqmfqgl80ttoo022op1d6vk41oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
